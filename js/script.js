@@ -32,3 +32,5 @@ inputRub.addEventListener('input', () => {
         .catch(() => inputUsd.value = "Что-то пошло не так!");
 
 });
+
+aaa = () => {};
